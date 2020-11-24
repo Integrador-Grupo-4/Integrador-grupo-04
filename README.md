@@ -1,5 +1,5 @@
 # Integrador-grupo-04
-Eduardo Rodolfi, Luan Adrian Da Silva e Matheus Felipe Burigo 
+Eduardo Rodolfi Beppler, Luan Adrian Da Silva e Matheus Felipe Burigo 
 
 Kanban:
 https://trello.com/invite/b/LM38LV8G/c6890f8ecda7039b2ed971e5c87d6baa/user-experience
